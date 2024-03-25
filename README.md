@@ -1,12 +1,10 @@
-# cloudyTest
-
 # Microsoft Endpoint Configuration Manager Installation and Configuration:
 
 Administrators use the Configuration Manager console to manage the Configuration Manager environment. Each Configuration Manager console can connect to a central administration site (CAS) or to a primary site. You can't connect a Configuration Manager console to a secondary site.
 
 The Configuration Manager console is always installed on the site server for the CAS or a primary site. To install the console separate from site server installation, run the standalone installer.
 
-Prerequisites
+# Prerequisites
 Supported OS versions for Configuration Manager consoles
 
 You have local Administrator rights on the target computer for the console.
